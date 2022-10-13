@@ -23,7 +23,7 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
-            lblStampa.Content = "hello world!";
+            lblStampa.Content = "hello world!"; //wow, che codice utile!
         }
     }
 }
